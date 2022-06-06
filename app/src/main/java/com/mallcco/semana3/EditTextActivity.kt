@@ -1,9 +1,8 @@
-package com.marquez.projectandroidsem3
+package com.mallcco.semana3
 
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.mallcco.semana3.R
 
 import kotlinx.android.synthetic.main.activity_edit_text.*
 

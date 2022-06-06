@@ -1,4 +1,4 @@
-package com.marquez.projectandroidsem3
+package com.mallcco.semana3
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
